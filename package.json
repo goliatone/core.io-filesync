@@ -1,0 +1,24 @@
+{
+  "name": "core.io-filesync",
+  "version": "0.0.0",
+  "description": "core.io file sync module",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goliatone/core.io-filesync.git"
+  },
+  "keywords": [
+    "core.io",
+    "s3",
+    "filesync"
+  ],
+  "author": "goliatone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/goliatone/core.io-filesync/issues"
+  },
+  "homepage": "https://github.com/goliatone/core.io-filesync#readme"
+}

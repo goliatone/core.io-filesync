@@ -15,3 +15,5 @@ module.exports.Filesync = require('./lib/filesync');
  * a custom initializer.
  */
 module.exports.init = require('./lib/init');
+
+module.exports.command = require('./commands/filesync.s3.update');

@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/goliatone/core.io-filesync/issues"
   },
-  "homepage": "https://github.com/goliatone/core.io-filesync#readme"
+  "homepage": "https://github.com/goliatone/core.io-filesync#readme",
+  "dependencies": {
+    "chokidar": "^1.6.1",
+    "fs-exists-promised": "^0.2.0",
+    "s3fs": "^2.5.0"
+  }
 }

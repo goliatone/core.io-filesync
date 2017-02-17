@@ -1,6 +1,6 @@
 {
   "name": "core.io-filesync",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "core.io file sync module",
   "main": "index.js",
   "scripts": {

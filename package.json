@@ -24,6 +24,7 @@
   "dependencies": {
     "chokidar": "^1.6.1",
     "fs-exists-promised": "^0.2.0",
+    "gextend": "^0.3.0",
     "s3fs": "^2.5.0"
   }
 }

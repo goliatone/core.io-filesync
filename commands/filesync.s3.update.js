@@ -1,3 +1,4 @@
+/*jshint esversion:6, node:true*/
 'use strict';
 
 var fs = require('fs');
@@ -39,3 +40,5 @@ module.exports = function filesyncS3Update(topic, event){
         app.logger.error(err.stack);
     }
 };
+
+module.exports.registerCommandAs = 'filesync.s3.update';

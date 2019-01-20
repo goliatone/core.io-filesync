@@ -26,6 +26,7 @@
     "fs-exists-promised": "^0.2.0",
     "gextend": "^0.3.0",
     "noop-console": "^0.6.0",
+    "pluralize": "^7.0.0",
     "s3fs": "^2.5.0"
   }
 }

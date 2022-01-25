@@ -22,11 +22,11 @@
   },
   "homepage": "https://github.com/goliatone/core.io-filesync#readme",
   "dependencies": {
-    "chokidar": "^1.6.1",
+    "chokidar": "^3.5.3",
     "fs-exists-promised": "^0.2.0",
-    "gextend": "^0.3.0",
-    "noop-console": "^0.6.0",
-    "pluralize": "^7.0.0",
+    "gextend": "^0.8.0",
+    "noop-console": "^0.9.0",
+    "pluralize": "^8.0.0",
     "s3fs": "^2.5.0"
   }
 }
